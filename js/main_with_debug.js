@@ -65,6 +65,7 @@ function addEvents(){
 		document.querySelector("table").color = color;
 	});
 
+
 	function clickme(){
 
 		alert('Hey, you clicked me!');
